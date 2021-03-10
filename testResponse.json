@@ -13,11 +13,11 @@
     "isTrophyMissable":false,
     "isTrophyOnline":false,
     "trophyType":"Silver",
-    "trophyTip":{
+    "trophyTip":[{
       "Author":"Michal Strag",
       "trophyTips":"",
       "rate":"5/10"
-    }
+    }]
   },
     {
       "trophyTitle": "Bestia żądna krwi (Blood-starved Beast)",
@@ -27,10 +27,10 @@
       "isTrophyMissable": false,
       "isTrophyOnline": false,
       "trophyType": "Silver",
-      "trophyTip": {
+      "trophyTip": [{
         "Author": "Michal Strag",
         "trophyTips": "Bestia kleryka to jeden z opcjonalnych bossów i walczy się z nim w lokacji Centrum Yharnam (Central Yharnam). Sprawdź rozdział o walkach z bossami w naszym poradniku.",
         "rate": "5/10"
-      }
+      }]
     }]
 }]
