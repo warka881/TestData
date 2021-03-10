@@ -1,7 +1,7 @@
 {
   "gamePicture":"https://img.redbull.com/images/c_fill,g_auto,w_1160,h_773/q_auto,f_auto/redbullcom/2015/03/03/1331709128868_2/bloodborne",
   "gameTile":"Bloodbourne",
-  "gameDescription":"Przed śmiercią nie uciekniesz. Poradnik do Bloodborne to bogata solucja z podziałem na zadania główne i zadania poboczne. Znajdziesz tu także wszystkich bossów w Bloodborne i taktyki na nich, opis broni i zbroi, sekrety oraz porady dotyczące umiejętności postaci.\nŹródło: https://www.gry-online.pl/S024.asp?ID=1597",
+  "gameDescription":"Przed śmiercią nie uciekniesz. Poradnik do Bloodborne to bogata solucja z podziałem na zadania główne i zadania poboczne. Znajdziesz tu także wszystkich bossów w Bloodborne i taktyki na nich, opis broni i zbroi, sekrety oraz porady dotyczące umiejętności postaci.",
   "difficulty":8,
   "minAmountOfPasses":1,
   "timeNeededToGetPlatinumInHours":40,
@@ -21,7 +21,7 @@
   },
     {
       "trophyTitle": "Bestia żądna krwi (Blood-starved Beast)",
-      "trophyDescription": "Rodzaj trofeum: brązowe Sposób odblokowania: Musisz pokonać Bestię żądną krwi. Komentarz: Bestia żądna krwi to jeden z bossów i walczy się z nią w lokacji Stare Yharnam (Old Yharnam). Sprawdź rozdział o walkach z bossami w naszym poradniku."
+      "trophyDescription": "Rodzaj trofeum: brązowe Sposób odblokowania: Musisz pokonać Bestię żądną krwi. Komentarz: Bestia żądna krwi to jeden z bossów i walczy się z nią w lokacji Stare Yharnam (Old Yharnam). Sprawdź rozdział o walkach z bossami w naszym poradniku.",
       "trophyIcon": "https://www.psntrophywiki.org/images/thumb/b/b0/Bloodborne-trophy-23.png/200px-Bloodborne-trophy-23.png",
       "youtubeLink": "",
       "isTrophyMissable": false,
