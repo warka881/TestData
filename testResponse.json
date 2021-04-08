@@ -5,19 +5,6 @@
   "difficulty":8,
   "minAmountOfPasses":1,
   "timeNeededToGetPlatinumInHours":40,
-  "listOfTrophies":[{
-    "trophyTitle":"Bestia kleryka (Cleric Beast)",
-    "trophyDescription":"Musisz pokonać Amygdalę.",
-    "trophyIcon":"https://www.psntrophywiki.org/images/thumb/b/b0/Bloodborne-trophy-23.png/200px-Bloodborne-trophy-23.png",
-    "youtubeLink":"",
-    "isTrophyMissable":false,
-    "isTrophyOnline":false,
-    "trophyType":"Silver",
-    "trophyTip":[{
-      "Author":"Michal Strag",
-      "trophyTips":"",
-      "rate":"5/10"
-    }]
   },
     {
       "trophyTitle": "Bestia żądna krwi (Blood-starved Beast)",
